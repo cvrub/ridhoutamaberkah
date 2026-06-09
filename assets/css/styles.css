@@ -2060,3 +2060,21 @@ body[data-page="about"] .about-cta-buttons .btn{
     grid-template-columns:1fr;
   }
 }
+
+body[data-page="about"] .product-feature-grid{
+  display:grid;
+  grid-template-columns:repeat(5, minmax(0, 1fr));
+  gap:1rem;
+}
+
+@media(max-width:1200px){
+  body[data-page="about"] .product-feature-grid{
+    grid-template-columns:repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media(max-width:768px){
+  body[data-page="about"] .product-feature-grid{
+    grid-template-columns:1fr;
+  }
+}
