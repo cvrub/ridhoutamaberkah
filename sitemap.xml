@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.ridhoutamaberkah.com/index.html</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.ridhoutamaberkah.com/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ridhoutamaberkah.com/product.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ridhoutamaberkah.com/procces.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ridhoutamaberkah.com/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ridhoutamaberkah.com/arabica-coffee.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ridhoutamaberkah.com/robusta-coffee.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ridhoutamaberkah.com/cloves.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ridhoutamaberkah.com/nutmeg.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ridhoutamaberkah.com/cinnamon.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ridhoutamaberkah.com/black-pepper.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/product/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/process/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/arabica-coffee/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/robusta-coffee/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/black-pepper/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/cinnamon/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/cloves/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://ridhoutamaberkah.co/nutmeg/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+</url>
+
 </urlset>
